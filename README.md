@@ -7,6 +7,11 @@ This Repository contains the source-code for the Express Application API.
 ## Contributing 
 
 Feel free to submit PRs or to fill issues. Every kind of help is appreciated.
+
+Lets Understand the step by step process to implementing the Node-js application deployment through Jenkins Pipiline using ECS EC2
+
+HAPPY LEARNING......!
+
 ![image](https://github.com/user-attachments/assets/01e98a7d-c271-4d05-9ca3-29217b41fa55)
 ![image](https://github.com/user-attachments/assets/cdebc124-5964-4b6f-936d-862659dae783)
 ![image](https://github.com/user-attachments/assets/a36cd3a9-b0a6-46ee-b24c-c1f2732ffccf)
