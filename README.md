@@ -8,4 +8,4 @@ This Repository contains the source-code for the Express Application API.
 
 Feel free to submit PRs or to fill issues. Every kind of help is appreciated.
 
-More information about CTO.ai is documented on our [Website](https://cto.ai/)
+![image](https://github.com/user-attachments/assets/d017a27c-f818-452a-8d14-d22139a68285)
